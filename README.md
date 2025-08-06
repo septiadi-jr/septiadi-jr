@@ -4,8 +4,6 @@
 
 Welcome in my GitHub **septiadi-jr/septiadi-jr** i'm an addicted person to technology and evolving to be better in every day.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in Self Employee
 - 🌱 I’m currently learning React JS to be Fullstack Engineer
 - 👯 I’m looking to collaborate on Developing and Collaborate
