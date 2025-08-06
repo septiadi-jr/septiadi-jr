@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi, Dude!
 
-<!--
+![banner-githubjpg](https://github.com/user-attachments/assets/ab553e78-a378-4e49-adb2-f8dbd9657618)
+
 **septiadi-jr/septiadi-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
