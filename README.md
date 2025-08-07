@@ -1,6 +1,6 @@
 ## Hi, Dude!
 
-<img width="1584" height="396" alt="banner-github-new" src="https://github.com/user-attachments/assets/0c81872d-b099-495b-83a8-ab0c44183443" />
+<img width="1584" height="396" alt="banner-github-new" src="https://github.com/user-attachments/assets/4d4d6ef8-b553-4e98-813a-1159e017e8dc" />
 <br /><br />
 Welcome in my GitHub <b>septiadi-jr/septiadi-jr</b> i'm an addicted person to technology and evolving to be better in every day.
 <br /><br />
